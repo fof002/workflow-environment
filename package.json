@@ -1,0 +1,20 @@
+{
+  "name": "environments",
+  "version": "1.0.0",
+  "description": "Halloen ja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fof002/workflow-environment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fof002/workflow-environment/issues"
+  },
+  "homepage": "https://github.com/fof002/workflow-environment#readme"
+}
